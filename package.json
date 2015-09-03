@@ -17,11 +17,9 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.3.0",
-    "hubot-slack-timeline": ">= 0.1.0",
-    "request": ">= 2.51.0"
+    "hubot-slack": "^3.3.0"
   },
   "engines": {
-    "node": "0.12.x"
+    "node": "0.10.x"
   }
 }
