@@ -18,10 +18,11 @@
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "hubot-slack-timeline": "^0.2.2",
-    "request": "^2.61.0"
+    "hubot-slack-timeline": ">=0.1.0",
+    "request": ">=2.51.0",
+    "xml2json": "^0.9.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.12.x"
   }
 }
